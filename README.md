@@ -1,1 +1,2 @@
-# projet-La-panthere
+# Projet-La-Panthere
+Optimisation d'un site web existant
